@@ -1,0 +1,14 @@
+name: EasyCommands
+version: 0.1.1
+author: JackGAttack4
+main: org.JackGAttack4.EasyCommands.Main
+description: Helping people with commands since 2023
+api-version: 1.19
+commands:
+    create:
+        description: Create lifts (and more soon)
+        usage: /create [lift]
+    invisitem:
+        description: Get invisable Itemframes
+        usage: /invisitem [glow]
+
